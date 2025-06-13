@@ -49,10 +49,10 @@ Authenticated using phone number (must exist in `admins` table).
 ## 📂 Database Schema
 
 ```
-students(student_id, name)
+students(student_id, name,contact,enrolled_modules)
 modules(module_id, module_name)
 marks(student_id, module_id, mark)
-admins(phone)
+admins(phone,names)
 appeals(appeal_id, student_id, module_id, reason, status)
 ```
 
