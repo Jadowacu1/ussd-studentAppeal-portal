@@ -84,7 +84,7 @@ Use [Ngrok](https://ngrok.com/) or any other tunneling service to expose your `u
 For example, in Africa's Talking, set your application callback URL to:
 
 ```
-https://d7a3-197-157-186-21.ngrok-free.app/Appeal/
+https://d7a3-197-157-186-21.ngrok-free.app/Marks_Appeal/
 ```
 
 ---
