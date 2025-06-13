@@ -42,7 +42,7 @@ Language: PHP
 
 Database: MySQL
 
-USSD Gateway: [Your USSD provider like Africa's Talking, Twilio, etc.]
+USSD Gateway: Africa's Talking
 
 Server: Apache (via XAMPP or similar)
 
@@ -63,7 +63,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ussd-marks-system.git
+git clone https://github.com/your-username/ussd-studentAppeal-portal.git
 cd ussd-marks-system
 Import MySQL Database
 
@@ -84,14 +84,14 @@ Example: On Africa's Talking, set your application callback URL to:
 arduino
 Copy
 Edit
-https://your-server.com/ussd.php
+https://d7a3-197-157-186-21.ngrok-free.app/Appeal/
 📸 Sample USSD Flow
 Student
 markdown
 Copy
 Edit
 Welcome Student. Enter your Student ID:
-> 12345
+> 22RP00490
 
 Select Option:
 1. Check Marks
@@ -108,5 +108,5 @@ Welcome Admin. Select Option:
 4. Update Existing Marks
 5. Exit
 📧 Contact
-Created by [Your Name]
-For support or contributions, contact: [your-email@example.com]
+Created by Niyonshuti Jean De Dieu
+For support or contributions, contact: jadowacu@gmai.com
